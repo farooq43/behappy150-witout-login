@@ -1,0 +1,5 @@
+os.system("clear")
+		print (logo)
+		print(" 01 to  49 ")
+		try:
+			c = raw_input(" choose code  : ")
